@@ -1,16 +1,40 @@
-# simple_expense_tracker
+# 📊 Expense Tracker
 
-A new Flutter project.
+A simple and clean Flutter application that allows users to track their daily income and expenses.  
+All data is stored locally using **Shared Preferences**, ensuring that your transactions remain saved even after restarting the app.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- ➕ Add income or expense  
+- 💾 Persistent local storage  
+- 📉 Automatic income / expense / balance calculation  
+- 📝 Transaction list with labels  
+- 🎨 Minimal and clean UI  
+- 📱 Responsive design  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📸 Screenshots
+
+_(You can add application screenshots here later.)_
+
+---
+
+## 🛠️ Technologies Used
+
+| Technology | Purpose |
+|-----------|---------|
+| **Flutter** | Cross-platform UI development |
+| **Dart** | Main programming language |
+| **Shared Preferences** | Local data storage |
+| **Material Design** | UI components |
+
+---
+
+## 📦 Getting Started
+
+### 1️⃣ Clone the repository:
+```sh
+git clone https://github.com/talipemreufat/expense_tracker.git
