@@ -33,8 +33,4 @@ _(You can add application screenshots here later.)_
 
 ---
 
-## 📦 Getting Started
 
-### 1️⃣ Clone the repository:
-```sh
-git clone https://github.com/talipemreufat/expense_tracker.git
