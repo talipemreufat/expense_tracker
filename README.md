@@ -16,12 +16,6 @@ All data is stored locally using **Shared Preferences**, ensuring that your tran
 
 ---
 
-## 📸 Screenshots
-
-_(You can add application screenshots here later.)_
-
----
-
 ## 🛠️ Technologies Used
 
 | Technology | Purpose |
